@@ -1,0 +1,14 @@
+Baseline ALgorithm:
+
+    These are the algorithm,that helps us understand how good our predictive model is,i.e after one develops a machine learning model for te predictive modeling problem,a question arises with respect to the performance of the model,"if it is of any good?".This question can be answered to some extent using "Baseline algorithms."
+    
+Baseline algorihtm:
+     1.)is used to discover the bedrock in performance on your problem by which all other models can be evaluated.
+     2.)is used to understand that the true job of applied machine learning is to explore the space of possible 
+        models and discover what a good model score looks like relative to the baseline on your specific dataset.
+ 
+Baseline algorithm implemented in this:
+     * Random prediction algorithm.
+     * Zero rule prediction algorithm.
+
+reference:machinelearningmastery.com
